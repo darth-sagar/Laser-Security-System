@@ -33,7 +33,7 @@ This project is a **Laser Security Alarm System** designed using the **NE555 tim
    - The **buzzer and LED** are activated for a predefined time to alert of an intrusion.  
 
 ## 🖼️ Circuit Diagram  
-![Circuit-Diagram](https://github.com/darth-sagar/Laser-Security-System/Media/Circuit-Diagram.png)
+![Circuit-Diagram](https://github.com/user-attachments/assets/93620647-75a5-4f00-b375-9ebf01ce96d3)
 
 
 ## 📌 Applications  
