@@ -34,7 +34,7 @@ This project is a **Laser Security Alarm System** designed using the **NE555 tim
 
 ## 🖼️ Circuit Diagram  
 ![Circuit-Diagram](https://github.com/user-attachments/assets/93620647-75a5-4f00-b375-9ebf01ce96d3)
-Media/IMG_20230202_004313.jpg
+![](https://github.com/user-attachments/assets/696be41a-8720-4415-ba5c-c3a5b3335ace)
 
 ## 📌 Applications  
 ✅ **Home Security** – Can be used to secure doors and windows.  
