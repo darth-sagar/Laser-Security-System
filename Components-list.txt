@@ -1,14 +1,15 @@
-Multipurpose PCB Board
-NE555N Timer IC
-LM358 Dual Operational Amplifier IC
-LM7805 Voltage Regulator IC
-Transistor
-Photodiode (LDR - Light Dependent Resistor)
-Resistors (10KΩ, 150Ω)
-10K Potentiometer
-Capacitor (220µF)
-LEDs
-9V Battery
-Piezo Buzzer
-IC Base
-Laser Pointer
+## Components-List
+
+1.Multipurpose PCB Board
+2.NE555N Timer IC
+3.LM358 Dual Operational Amplifier IC
+4.LM7805 Voltage Regulator IC
+5.Photodiode (LDR - Light Dependent Resistor)
+6.Resistors (10KΩ, 150Ω)
+7.10K Potentiometer
+8.Capacitor (220µF)
+9.LEDs
+10.9V Battery
+11.Piezo Buzzer
+12.IC Base
+13.Laser Pointer
