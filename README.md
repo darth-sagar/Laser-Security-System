@@ -43,6 +43,6 @@ This project is a **Laser Security Alarm System** designed using the **NE555 tim
 ✅ **Industrial Security** – Can be integrated into automation systems.  
 
 ## Video 
- ![Video](https://github.com/darth-sagar/Laser-Security-System/blob/main/Media/VID_20230117_020643.mp4)
+ ![Watch the video](https://github.com/darth-sagar/Laser-Security-System/blob/main/Media/VID_20230117_020643.mp4)
 
 
